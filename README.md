@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This website is built using React, a popular JavaScript library for building user interfaces. It utilizes state management to track the input text and the chosen text manipulation operation. The website's appearance and theme are controlled through CSS and Bootstrap to achieve the dark and light mode options.
 
 ## Available Scripts
 
