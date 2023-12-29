@@ -1,3 +1,5 @@
+<h1>Demo of the app</h1>
+<a href="https://shubhangi120989.github.io/textUtils/" target="_blank" rel="noopener">TextUtils.com</a>
 <h1>React Text Manipulation App</h1>
     <p>Welcome to the React Text Manipulation App, a dynamic web application built using React and Bootstrap. This app empowers users to perform various text manipulations with ease. From converting text to lowercase or uppercase to counting words per minute, this app provides a seamless experience. Additionally, users can switch between light and dark themes to suit their preferences.</p>
 
