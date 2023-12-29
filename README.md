@@ -1,7 +1,46 @@
-# Getting Started with Create React App
+<h1>React Text Manipulation App</h1>
+    <p>Welcome to the React Text Manipulation App, a dynamic web application built using React and Bootstrap. This app empowers users to perform various text manipulations with ease. From converting text to lowercase or uppercase to counting words per minute, this app provides a seamless experience. Additionally, users can switch between light and dark themes to suit their preferences.</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This website is built using React, a popular JavaScript library for building user interfaces. It utilizes state management to track the input text and the chosen text manipulation operation. The website's appearance and theme are controlled through CSS and Bootstrap to achieve the dark and light mode options.
+  <h2>Features</h2>
+
+   <h3>Text Manipulation</h3>
+
+   <ol>
+        <li>
+            <h4>Convert to Lowercase:</h4>
+            <p>Easily transform text to lowercase for a consistent format.</p>
+        </li>
+        <li>
+            <h4>Convert to Uppercase:</h4>
+            <p>Quickly change text to uppercase for emphasis or formatting.</p>
+        </li>
+        <li>
+            <h4>Word Count per Minute:</h4>
+            <p>Measure your typing speed by calculating words per minute.</p>
+        </li>
+    </ol>
+
+   <h3>Theme Switching</h3>
+
+  <ul>
+        <li>
+            <h4>Light and Dark Themes:</h4>
+            <p>Toggle between light and dark themes to enhance readability and suit your preference.</p>
+        </li>
+    </ul>
+
+  <h2>Technologies Used</h2>
+
+  <ul>
+        <li>
+            <h3>React:</h3>
+            <p>A JavaScript library for building user interfaces.</p>
+        </li>
+        <li>
+            <h3>Bootstrap:</h3>
+            <p>A popular CSS framework for building responsive and mobile-first websites.</p>
+        </li>
+    </ul>
 
 ## Available Scripts
 
